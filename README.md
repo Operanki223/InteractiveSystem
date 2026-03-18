@@ -1,1 +1,2 @@
-完成版のURLです。（https://github.com/Interactive8group/InteractiveSystem）
+完成版のURLです↓
+https://github.com/Interactive8group/InteractiveSystem
